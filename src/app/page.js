@@ -17,5 +17,5 @@ export const metadata = {
   title: "Top Colleges in Nepal | Find Universities & Programs",
   description: "Explore the best colleges and universities in Nepal. Filter by city, university, course, and ownership type.",
   keywords: ["Colleges in Nepal", "Universities in Nepal", "Best Colleges", "Private Institutions", "Public Institutions"],
-  authors: [{ name: "Your Website Name" }],
+  authors: [{ name: "https://nepalcollege-5ycx.vercel.app/" }],
 };
